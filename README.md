@@ -1,4 +1,4 @@
-Since I couldn't share the codes that I wrote at work, hope this project that I came across online can showcase my coding ability. 
+I am taking on this project that I've found online as a coding challenge. 
 
 # Table of Contents
 1. [Challenge Summary](README.md#challenge-summary)
